@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Prac2</string>
+    <string name="button_text">Нажми на меня</string>
+    <string name="textview">На кнопку нажали: </string>
 </resources>
