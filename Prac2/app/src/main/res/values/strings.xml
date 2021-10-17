@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Prac2</string>
-    <string name="button_text">Нажми на меня</string>
-    <string name="textview">На кнопку нажали: </string>
+    <string name="main_plus_button_text">Нажми на меня</string>
+    <string name="main_minus_button_text">Не нажимай на меня</string>
+    <string name="main_textview">На кнопку нажали: </string>
+    <string name="main_reset_button_text"> Сбросить счётчик </string>
 </resources>
